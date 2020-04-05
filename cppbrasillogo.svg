@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1e3" height="1e3" version="1.1" viewBox="0 0 264.58 264.58" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(0,-32.417)">
+  <rect x="-4.5996e-6" y="32.417" width="264.58" height="264.58" ry="132.29" fill="#009c3b" style="paint-order:normal"/>
+  <rect transform="rotate(45)" x="121.14" y="-65.945" width="177.73" height="177.73" rx="0" fill="#fac819" style="paint-order:normal"/>
+  <g fill="#002776">
+   <path transform="matrix(.26458 0 0 .26458 0 32.417)" d="m508.98 250.18a250 250 0 0 0-74.252 8.3379 250 250 0 0 0-185.29 241.48 250 250 0 0 0 185.29 241.48 250 250 0 0 0 281.21-116.48l-129.56-74.803a100 100 0 0 1-86.375 49.803 100 100 0 0 1-100-100 100 100 0 0 1 100-100 100 100 0 0 1 86.354 49.816l129.58-74.816a250 250 0 0 0-206.96-124.82z" style="paint-order:normal"/>
+   <path d="m199.45 159.28v10.862l-35 2e-5v-10.862zm-22.931-12.069h10.862l-2e-5 35h-10.862z" style="paint-order:normal"/>
+   <path d="m241.66 159.28v10.862l-35 2e-5v-10.862zm-22.931-12.069h10.862l-1e-5 35-10.862 1e-5z" style="paint-order:normal"/>
+  </g>
+ </g>
+</svg>
